@@ -12,6 +12,7 @@ Burning man starts on *Aug 24th*. When we arrive, we must have the following:
 - [ ] LEDs along the exterior of the frame
 - [ ] LEDs throughout the interior
 - [ ] A sound system (with small speakers in the interior)
+- [ ] A generator that provides reliable power
 
 # Roadmap
 
