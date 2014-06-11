@@ -53,17 +53,6 @@ If we get 35 of them, some napkin math would give us:
 - 175,000 lumens (As bright as about 250 x 60W halogen bulbs)
 - ~$2.5k
 
-**"Stripeyness" Question**
-
-With the current setup, we'd have
-
-- ~7 wraps around the car (I'd estimate 25m of perimeter around the car)
-- ~50cm between strips (car is ~3.5 meters tall)
-
-If there are 50 cms between strips, how much distance do we need to place between our strips and the polycarbonate to prevent it from looking "stripey"?
-
-See the [side view of the polycarbonate]("https://02337347925589272846.googlegroups.com/attach/60aa8062d575ed27/image%20(1).png?part=0.2&view=1&vt=ANaJVrFnE9LRHinrn2YPyG0IizoH2zhnGCRnwa9WVthJVIkFVWiOo2fa88zBys-kmq0OOha6R73fko4jDmnsCCGMBDtIHn5dX2ojwEnqtnGlZmFjxGc90iE") to clarify this question.
-
 ## Exterior LED Controllers
 
 Fadecandy: https://github.com/scanlime/fadecandy
