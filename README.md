@@ -1,4 +1,4 @@
-Ice, Lights, and Music
+Titanic's End - Ice, Lights, and Music
 =================
 
 Project Repository for Titanic's End Electronics
