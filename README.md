@@ -9,14 +9,14 @@ Project Repository for Titanic's End Electronics
 
 # MVP
 
-Burning man starts on *Aug 24th*. When we arrive, we must have the following:
+Burning man starts on **Aug 24th**. When we arrive, we must have the following:
 
 - [ ] LEDs along the exterior of the frame
 - [ ] LEDs throughout the interior
 - [ ] A sound system (with small speakers in the interior)
 - [ ] A generator that provides reliable power
 
-We would like to keep the entire budget below $5k
+We'd like to keep the entire electronics budget below $5k
 
 # Roadmap
 
