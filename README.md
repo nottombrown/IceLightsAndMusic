@@ -4,7 +4,7 @@ Ice, Lights, and Music
 Project Repository for Titanic's End Electronics
 
 - [Facebook Group](https://www.facebook.com/groups/1434882210102871/)
-- [Get Involved](https://github.com/nottombrown/IceLightsAndMusic/issues) for a general roadmap
+- [Issues](https://github.com/nottombrown/IceLightsAndMusic/issues) (get involved!)
 
 # MVP
 
