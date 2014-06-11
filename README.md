@@ -7,6 +7,9 @@ Project Repository for Titanic's End Electronics
 - [Crowdtilt](https://www.crowdtilt.com/campaigns/titanics-end)
 - [Issues](https://github.com/nottombrown/IceLightsAndMusic/issues) (get involved!)
 
+![Sweet Rendering](https://cloud.githubusercontent.com/assets/306655/3239022/981f72f2-f102-11e3-9e56-e604742f7924.jpg)
+
+
 # MVP
 
 Burning man starts on **Aug 24th**. When we arrive, we must have the following:
