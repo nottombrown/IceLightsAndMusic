@@ -4,6 +4,7 @@ Titanic's End - Ice, Lights, and Music
 Project Repository for Titanic's End Electronics
 
 - [Facebook Group](https://www.facebook.com/groups/1434882210102871/)
+- [Crowdtilt](https://www.crowdtilt.com/campaigns/titanics-end)
 - [Issues](https://github.com/nottombrown/IceLightsAndMusic/issues) (get involved!)
 
 # MVP
@@ -16,8 +17,6 @@ Burning man starts on *Aug 24th*. When we arrive, we must have the following:
 - [ ] A generator that provides reliable power
 
 We would like to keep the entire budget below $5k
-
-![Sweet](https://02337347925589272846.googlegroups.com/attach/2eec296e1bc38a/20140414-DMV-Application.jpg?part=0.1&view=1&vt=ANaJVrFz7MlxklHnNbzaG-3sO6J0pTxqVI-BlU4xJhKrjWuXPJ9J3spR_CT_VmnDo68tNRwqmIO919l1BUiOntf_XjwdlZSZCnLtJqv40hbI5bEWYN5lOgM)
 
 # Roadmap
 
