@@ -34,23 +34,23 @@ The current plan would have the following specs
 - ~$3k
 
 ## LED strips
-I've had several recommendation for [waterproof WS2812B strips](http://www.aliexpress.com/item/5-Meters-Individually-Addressable-Color-WS2812B-Waterproof-5050-SMD-RGB-WS2811-LED-Strip-White-PCB-60/1592816354.html)
+I've had several recommendation for [waterproof WS2812B strips](http://www.aliexpress.com/item/100M-20x-5m-30leds-M-WS2812B-36W-5050-LEDs-Digital-LED-Strip-WS2812B-M-IP65-DC5V/1396783184.html)
 
 Each strip has the following specs:
 
-- $70 (including shipping)
-- 300 LEDs
-- 5 meters
+- $0.20 per LED (plus shipping)
+- 6k LEDs per strip
+- 200m
 - 120 degree emitting angle
-- 5000 lumens
-- 72 watts
+- ~100,000 lumens (17 lumens/led)
+- 1440 watts (7.2 watts/m)
 
-If we get 35 of them, some napkin math would give us:
+If we get 2 of them, some napkin math would give us:
 
-- 175 meters of strips
-- 2520 watts
-- 10,500 total LEDs
-- 175,000 lumens (As bright as about 250 x 60W halogen bulbs)
+- 400 meters of strips
+- 2880 watts
+- 12,000 total LEDs
+- 200,000 lumens (As bright as about 300 x 60W halogen bulbs)
 - ~$2.5k
 
 ## Exterior LED Controllers
