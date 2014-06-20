@@ -30,8 +30,6 @@ https://www.google.com/calendar/embed?src=q6iqtt235h5isporsgrl2aepcs%40group.cal
 
 # LEDs
 
-The current plan would be to cover the entire exterior with LEDS
-
 Quick math for the size of the car
 
 - Height ~3.5m
