@@ -28,6 +28,8 @@ https://www.google.com/calendar/embed?src=q6iqtt235h5isporsgrl2aepcs%40group.cal
 
 ![titanics_end_diagram](https://cloud.githubusercontent.com/assets/306655/3335592/cf1e1274-f817-11e3-9934-029488f935b8.png)
 
+If you want to contribute, feel free to edit the [omnigraffle file](https://www.dropbox.com/s/9u4l34wucbv1rlj/titanics_end_diagram.graffle)
+
 # LEDs
 
 Quick math for the size of the car
