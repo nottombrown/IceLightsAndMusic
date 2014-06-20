@@ -24,6 +24,10 @@ We'd like to keep the entire electronics budget below $5k
 
 https://www.google.com/calendar/embed?src=q6iqtt235h5isporsgrl2aepcs%40group.calendar.google.com&ctz=America/Los_Angeles
 
+# Wiring
+
+![titanics_end_diagram](https://cloud.githubusercontent.com/assets/306655/3335592/cf1e1274-f817-11e3-9934-029488f935b8.png)
+
 # LEDs
 
 The current plan would be to cover the entire exterior with LEDS
