@@ -93,12 +93,7 @@ We want a powered hub with at least 8 USB ports.
 
 ## Power Supplies
 
-We need a power supply that provides the following
-
-- 12V
-- 768 watts (A side node has 64 segments, each drawing 12 watts)
-
-The best one I've found is this [Rosewill 1000W](http://www.amazon.com/Rosewill-RBR1000-M-1000-Watt-Certified-compatible/dp/B003J89V0A/ref=sr_1_8?s=pc&ie=UTF8&qid=1403177907&sr=1-8&keywords=power+supply) which looks great but is a bit pricey. I'd be up for other suggestions.
+We need 5V power for each of the LED strips. Micah recommends a [200W Genssi](http://www.ebay.com/itm/GENSSI-5V-40A-200W-Regulated-Switching-Power-Supply-FAST-FREE-SHIPPING-USA-/171123409781).
 
 # Brain
 
