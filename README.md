@@ -26,7 +26,7 @@ https://www.google.com/calendar/embed?src=q6iqtt235h5isporsgrl2aepcs%40group.cal
 
 # Wiring
 
-![titanics_end_diagram](https://cloud.githubusercontent.com/assets/306655/3335592/cf1e1274-f817-11e3-9934-029488f935b8.png)
+![titanics_end_diagram](https://cloud.githubusercontent.com/assets/306655/3368329/eb7fe722-fb72-11e3-9aed-4a7b16cbf9b0.png)
 
 If you want to contribute, feel free to edit the [omnigraffle file](https://www.dropbox.com/s/9u4l34wucbv1rlj/titanics_end_diagram.graffle)
 
