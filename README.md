@@ -41,7 +41,7 @@ Quick math for the size of the car
 This gives us a total perimiter of 17m and a total area of 59.5m^2
 
 ## LED strips
-I've had several recommendation for [waterproof WS2812B strips](http://www.aliexpress.com/item/5m-DC5V-IP65-WS2812B-led-digital-strip-30pcs-WS2812B-M-with-30pixels-36W-white-pcb-waterproof/1074720878.html)
+I've had several recommendation for [waterproof WS2812B strips](http://www.aliexpress.com/item/BLACK-PCB-5m-DC5V-WS2812B-led-pixel-srip-IP68-30pcs-WS2812B-M-with-30pixels-reverse-protection/926778326.html)
 
 Each strip has the following specs:
 
